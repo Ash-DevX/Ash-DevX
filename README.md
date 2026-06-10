@@ -1,7 +1,9 @@
 # 👋 Hi there, I'm Ashwin Elumalai
 
 ### Full Stack Developer | ADO .NET | ASP .NET | SQL | Cloud & DevOps Enthusiast
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="380" alt="Coding Animation"/>
+
+<img align="right" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Floating Code Syntax Grid"/>
+
 * 🚀 Building modern, scalable, and user-friendly web applications
 * 🤖 Exploring Agentic AI, OpenAI Integrations & Enterprise 
 * ☁️ Learning Cloud Architecture, DevOps & System Design
