@@ -2,7 +2,7 @@
 
 ### Full Stack Developer | ADO .NET | ASP .NET | SQL | Cloud & DevOps Enthusiast
 
-<img align="right" width="380" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631BAB23E1D495/1541860605963-02Y6H9V5HFE5NWSVVTVE/ke17ZwdGBToddI8pDm48kPxS36r0zG9Z2R8vjQjWwWd7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKksyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UeN8XfE45uYtGv8r_G3I9Ff9q_vFpU6eU6WwR6eK-7u8G/coding.gif" alt="Web Developer Right Layout"/>
+<img align="right" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Floating Code Syntax Grid"/>
 
 * 🚀 Building modern, scalable, and user-friendly web applications
 * 🤖 Exploring Agentic AI, OpenAI Integrations & Enterprise 
