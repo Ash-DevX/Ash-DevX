@@ -2,7 +2,7 @@
 
 ### Full Stack Developer | ADO .NET | ASP .NET | SQL | Cloud & DevOps Enthusiast
 
-<img align="right" width="380" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+<img align="right" width="380" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631BAB23E1D495/1541860605963-02Y6H9V5HFE5NWSVVTVE/ke17ZwdGBToddI8pDm48kPxS36r0zG9Z2R8vjQjWwWd7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKksyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UeN8XfE45uYtGv8r_G3I9Ff9q_vFpU6eU6WwR6eK-7u8G/coding.gif" alt="Web Developer Workspace"/>
 
 * 🚀 Building modern, scalable, and user-friendly web applications
 * 🤖 Exploring Agentic AI, OpenAI Integrations & Enterprise 
@@ -90,7 +90,7 @@ const ashwin = {
 
 ### Enterprise & Automation
 
-⚙️ Control-M • RCA • ITSM • ServiceNow • Jira • Unix/Linux • Shell Scripting
+DOT NET / C# / ASP .NET / ADO .NET / API / SQL / Cloud & DevOps Enthusiast
 
 ---
 
