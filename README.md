@@ -2,7 +2,7 @@
 
 ### Full Stack Developer | ADO .NET | ASP .NET | SQL | Cloud & DevOps Enthusiast
 
-<img src="https://media.giphy.com/media/3p9mER7B8uUuV0i7wU/giphy.gif" width="380" alt="Cyberpunk Code Loop"/>
+<img src="https://cdn.gamedevmarket.net/wp-content/uploads/20191203193540/94b46b7a54a0f44390be10be69cb177c.gif" width="380" alt="Tech Workspace"/>
 
 * 🚀 Building modern, scalable, and user-friendly web applications
 * 🤖 Exploring Agentic AI, OpenAI Integrations & Enterprise 
