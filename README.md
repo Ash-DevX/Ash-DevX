@@ -5,7 +5,7 @@
 <img align="right" width="380" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
 * 🚀 Building modern, scalable, and user-friendly web applications
-* 🤖 Exploring Agentic AI, OpenAI Integrations & Enterprise Automation
+* 🤖 Exploring Agentic AI, OpenAI Integrations & Enterprise 
 * ☁️ Learning Cloud Architecture, DevOps & System Design
 * 🔧 Enterprise L2/L3 Support Specialist with Banking Domain Experience
 * 🌍 Supported global enterprise customers across multiple industries
@@ -74,11 +74,11 @@ const ashwin = {
 
 ### Frontend Development
 
-<img height="50" width="50" src="https://img.icons8.com/color/48/html-5.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/css3.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/javascript.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/angularjs.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/bootstrap.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/react-native.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/html-5.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/css3.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/angularjs.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/bootstrap.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/react-native.png"/>
 
 ### Backend Development
 
-<img height="50" width="50" src="https://img.icons8.com/color/48/c-sharp-logo.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/dot-net.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/python.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/nodejs.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/c-sharp-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/python.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/nodejs.png"/>
 
 ### Database
 
@@ -86,7 +86,7 @@ const ashwin = {
 
 ### Cloud & DevOps
 
-<img height="50" width="50" src="https://img.icons8.com/color/48/amazon-web-services.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/azure-1.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/docker.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/kubernetes.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/github.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/amazon-web-services.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/azure-1.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/docker.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/kubernetes.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/github.png"/>
 
 ### Enterprise & Automation
 
