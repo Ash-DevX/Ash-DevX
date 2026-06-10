@@ -2,7 +2,7 @@
 
 ### Full Stack Developer | ADO .NET | ASP .NET | SQL | Cloud & DevOps Enthusiast
 
-<img align="right" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding Git"/>
+<img src="https://media.giphy.com/media/3p9mER7B8uUuV0i7wU/giphy.gif" width="380" alt="Cyberpunk Code Loop"/>
 
 * 🚀 Building modern, scalable, and user-friendly web applications
 * 🤖 Exploring Agentic AI, OpenAI Integrations & Enterprise 
