@@ -1,9 +1,7 @@
 # 👋 Hi there, I'm Ashwin Elumalai
 
 ### Full Stack Developer | ADO .NET | ASP .NET | SQL | Cloud & DevOps Enthusiast
-
-<img src="https://cdn.gamedevmarket.net/wp-content/uploads/20191203193540/94b46b7a54a0f44390be10be69cb177c.gif" width="380" alt="Tech Workspace"/>
-
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="380" alt="Coding Animation"/>
 * 🚀 Building modern, scalable, and user-friendly web applications
 * 🤖 Exploring Agentic AI, OpenAI Integrations & Enterprise 
 * ☁️ Learning Cloud Architecture, DevOps & System Design
