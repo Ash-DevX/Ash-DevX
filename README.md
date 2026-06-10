@@ -2,7 +2,7 @@
 
 ### Full Stack Developer | ADO .NET | ASP .NET | SQL | Cloud & DevOps Enthusiast
 
-<img align="right" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Floating Code Syntax Grid"/>
+<img align="right" width="380" src="https://cdn.pixabay.com/animation/2022/11/17/12/58/12-58-15-288_512.gif" alt="Frontend Engineering Analytics"/>
 
 * 🚀 Building modern, scalable, and user-friendly web applications
 * 🤖 Exploring Agentic AI, OpenAI Integrations & Enterprise 
